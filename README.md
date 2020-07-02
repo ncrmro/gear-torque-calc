@@ -2,6 +2,7 @@ A simple way to figure out how much torque different sized gears will get out of
 
 Torque units are in nm (newton meters) and lengths should be in mm (millimeters).
 
+Some background on why I wrote this package can be found [here](https://ncrmro.com/posts/writing_a_gear_torque_calculator)
 
 ## Usage
 
